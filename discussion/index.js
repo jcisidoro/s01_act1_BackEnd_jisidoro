@@ -166,6 +166,9 @@ be referenced and manipulated throughout a program
         use for loop or if
         
 */
+
+//ACTIVITY 1 - JAVASCRIPT 
+
 let products = {
     name: ["Laptop", "Phone", "Tablet"],
     price: [800, 900, 600],
